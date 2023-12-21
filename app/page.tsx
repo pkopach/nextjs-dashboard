@@ -35,13 +35,6 @@ export default function Page() {
                         className="hidden md:block"
                         alt="Screenshot of the dashboard project showing desktop version"
                     />
-                    <Image
-                        src="/hero-mobile.png"
-                        width={640}
-                        height={620}
-                        className="hidden md:block"
-                        alt="Screenshot of the dashboard project showing mobile version"
-                    />
                 </div>
             </div>
         </main>
